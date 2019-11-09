@@ -3,3 +3,5 @@ R project to create a time series graph of growing season temperature for the th
 https://cals.arizona.edu/research/climategem/content/climate-viticulture-newsletter-2019-november#gst
 
 Growing season temperature is defined as the average temperature from April 1 through October 31.
+
+![Alt text](gst-time-series-stack-logo.png?raw=true "Optional Title")
