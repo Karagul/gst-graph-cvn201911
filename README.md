@@ -5,4 +5,4 @@ https://cals.arizona.edu/research/climategem/content/climate-viticulture-newslet
 Growing season temperature is defined as the average temperature from April 1 through October 31.
 
 
-![Alt text](gst-time-series-stack-logo.png?raw=true "growing season temperature for Arizona AVAs")
+![Alt text](gst-time-series-stack-logo.png?raw=false "growing season temperature for Arizona AVAs")
