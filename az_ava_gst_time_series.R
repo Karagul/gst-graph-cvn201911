@@ -14,6 +14,12 @@
 #  For simplicity, the PRISM-derived, preprocessed GST data are
 #  included and used in this script.
 
+#  Author:
+#  Jeremy Weiss, Climate and Geospatial Extension Scientist
+#  School of Natural Resources and the Environment
+#  University of Arizona
+#  520-626-8063, jlweiss@email.arizona.edu
+
 
 #####  SETUP
 
